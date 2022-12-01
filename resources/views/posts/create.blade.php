@@ -102,7 +102,7 @@
                                 </label>
                               </div>
                               <div class="form-check">
-                                <input class="form-check-input" type="radio" name="Jeniskelamin" id="jeniskelamin" value="Perempuan">
+                                <input class="form-check-input" type="radio" name="jeniskelamin" id="jeniskelamin" value="Perempuan">
                                 <label class="form-check-label" for="jeniskelamin">
                                   Perempuan
                                 </label>
